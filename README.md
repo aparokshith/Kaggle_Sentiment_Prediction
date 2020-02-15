@@ -7,4 +7,8 @@ Downloading required files:
   2. Download GloVe [Wikipedia](http://nlp.stanford.edu/data/glove.6B.zip) crawl
   3. Download [GoogleNews-Vectors-negative300.bin](https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz)
 
+To run Simple_transformers_BERT.ipynb follow the instructions found in [simpletransformers](https://github.com/ThilinaRajapakse/simpletransformers) official page. 
+
+To install apex follow instructions [here](https://github.com/NVIDIA/apex). 
+
 All files are to be placed in the root directory
